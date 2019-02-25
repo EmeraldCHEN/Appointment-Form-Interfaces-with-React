@@ -15,7 +15,10 @@
     "react-scripts": "2.1.5",
     "typescript": "^3.3.3"
   },
+  "homepage": "https://emeraldnz.github.io/Appointment-Form-Interfaces-with-React/",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -29,5 +32,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
