@@ -32,10 +32,7 @@ class ListAppointments extends Component {
                                 >
                                     {item.aptId + 1}. {item.petName}
                                 </span>
-                                <span 
-                                    className="apt-date ml-auto"
-                                    
-                                >
+                                <div className="apt-date ml-auto">
                                 {/* Using third-party component "react-moment": "^0.8.4", */}
                                  <Moment
                                    date = {item.aptDate} 
@@ -43,7 +40,7 @@ class ListAppointments extends Component {
                                    format = "ddd DD-MMM-YYYY hh:mma"
                                   />
                                  
-                                </span>
+                                </div>
                             </div>
 
                             <div className="owner-name">
