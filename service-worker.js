@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Appointment-Form-Interfaces-with-React/precache-manifest.01482d43c867b706d41d738e396e9381.js"
+  "/Appointment-Form-Interfaces-with-React/precache-manifest.745096cf27e84fe7b93f9b4a05cceb15.js"
 );
 
 workbox.clientsClaim();
