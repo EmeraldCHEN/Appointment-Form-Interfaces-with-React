@@ -7,4 +7,4 @@ The project was built with reference of the course "React.js: Building an Interf
 
 Instructor: Ray Villalobos
 
-URL: https://www.lynda.com/React-js-tutorials/React-js-Building-Interface/808689-2.html
+Course URL: https://www.lynda.com/React-js-tutorials/React-js-Building-Interface/808689-2.html
