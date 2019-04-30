@@ -62,7 +62,6 @@ class App extends Component {
       myAppointments: tempApts,
       lastIndex: this.state.lastIndex + 1
     })
-
   }
 
   deleteAppointment(appt) {
@@ -77,7 +76,6 @@ class App extends Component {
       myAppointments: tempApts
     })
   }
-
   // Use the lifecycle method componentDidMount() to fetch the data from an external sourse,
   // after the component is rendered correctly, componentDidMount() function is called
   componentDidMount(){
