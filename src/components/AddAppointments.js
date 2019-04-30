@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import '../css/App.css';
 import { FaPlus} from 'react-icons/fa';
 
-
 class AddAppointments extends Component {
     constructor(props){
         super(props);
