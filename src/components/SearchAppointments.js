@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import '../css/App.css';
 import { FaSistrix } from "react-icons/fa";
 
-
 class SearchAppointments extends Component {
     render() {
         return (
