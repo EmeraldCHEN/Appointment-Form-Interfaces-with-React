@@ -4,7 +4,6 @@ import '../css/App.css';
 // import { FaCheck} from 'react-icons/fa';
 import Moment from 'react-moment';
 
-
 class ListAppointments extends Component {
     render() {
         return (
