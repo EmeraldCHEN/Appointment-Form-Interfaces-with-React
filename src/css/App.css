@@ -17,7 +17,6 @@
   font-size: 1.3em;
   line-height: 100%;
 }
-
 .appointment-list .pet-item {
   border-bottom: 1px dotted gray;
 }
@@ -41,7 +40,6 @@
 .btn-danger {
   font-size:1.5em;
 }
-
 .apt-date.ml-auto {
   color: rgb(126, 3, 3);
   font-weight: 100;
@@ -53,7 +51,6 @@
     font-weight: 400;
   } 
 }
-
 /********************************************************************
   style AddAppointment
 *********************************************************************/
@@ -61,15 +58,12 @@
 .add-appintment .card-body {
    display: none;
 }  
-
 .apt-addheading {
   cursor: pointer;
   user-select: none;
   font-size: 1.5em;
   font-weight: 400;
 }
-
-
 /********************************************************************
   style SearchAppointment
 *********************************************************************/
